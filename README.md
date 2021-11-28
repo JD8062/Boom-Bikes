@@ -30,8 +30,8 @@ day.csv have the following fields:
 	- casual: count of casual users
 	- registered: count of registered users
 	- cnt: count of total rental bikes including both casual and registered
-	
-=========================================
+
+
 License
 =========================================
 Use of this dataset in publications must be cited to the following publication:
@@ -51,8 +51,6 @@ Use of this dataset in publications must be cited to the following publication:
 	pages={1-15}
 }
 
-=========================================
 Contact
 =========================================
-	
 For further information about this dataset please contact Hadi Fanaee-T (hadi.fanaee@fe.up.pt)
