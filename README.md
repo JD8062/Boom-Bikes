@@ -1,5 +1,11 @@
 **#BoomBikes**
 =========================================
+Problem statement
+=========================================
+
+A US bike-sharing provider BoomBikes has recently suffered considerable dips in their revenues due to the Corona pandemic. The company is finding it very difficult to sustain in the current market scenario. The objective is to model the demand for shared bikes with the available independent variables. The company wants to know which variables are significant in predicting the demand for shared bikes and how well those variables describe the bike demands.
+
+=========================================
 Dataset characteristics
 =========================================	
 day.csv have the following fields:
